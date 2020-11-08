@@ -1,2 +1,2 @@
 # set-game
-This game is a recreation of the game Set.
+Project to recreate iconic game, Set.
